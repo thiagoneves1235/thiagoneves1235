@@ -223,12 +223,6 @@ Busco consolidar minha carreira como Desenvolvedor Python e Engenheiro de Inteli
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagoneves1235&show_icons=true&theme=tokanguages](https://github-readme-stats.vercel.app/apiame=thiagoneves1235&layout=compact&theme=tokyonight
-
----
-
 # 🌎 Conecte-se Comigo
 
 💼 LinkedIn
