@@ -1,91 +1,258 @@
 # 👋 Olá, eu sou Thiago Marques Neves
 
-## 🚀 Desenvolvedor Python focado em Inteligência Artificial e Automação
+<div align="center">
 
-Sou apaixonado por tecnologia e pelo desenvolvimento de soluções inteligentes que simplificam processos, aumentam a produtividade e geram valor para pessoas e empresas.
+# 🐍 Python Developer | 🤖 AI Engineer | ⚡ Automation Specialist
 
-Atualmente concentro meus estudos e projetos em:
+### Desenvolvedor focado em Inteligência Artificial, Automação, Cloud Computing e Desenvolvimento de Soluções Inteligentes.
 
-- 🐍 Desenvolvimento Python
-- 🤖 Inteligência Artificial
-- ⚡ Automação de Processos
-- 🌐 Desenvolvimento Web
-- 📊 Análise de Dados
-- 🔗 Integração de Sistemas
-- ☁️ Soluções Microsoft 365
+🚀 Transformando ideias em soluções inteligentes através de Python, IA e automação.
+
+</div>
 
 ---
 
-## 💻 Tecnologias
+# 🚀 Sobre Mim
 
-### Linguagens
+Sou um profissional apaixonado por tecnologia, desenvolvimento de software, inteligência artificial e automação de processos.
+
+Atualmente concentro meus estudos e projetos no desenvolvimento de aplicações inteligentes utilizando Python, IA Generativa, APIs, Cloud Computing e tecnologias voltadas para produtividade e transformação digital.
+
+Meu objetivo é atuar como Desenvolvedor Python e Engenheiro de IA, criando soluções modernas, eficientes e escaláveis capazes de gerar impacto real para empresas e usuários.
+
+---
+
+# 🎯 Áreas de Atuação
+
+- 🤖 Inteligência Artificial
+- 🐍 Desenvolvimento Python
+- ⚡ Automação de Processos
+- 🌐 Desenvolvimento Web
+- ☁️ Cloud Computing
+- 🔗 Integração de APIs
+- 📊 Análise e Tratamento de Dados
+- 🧠 IA Generativa
+- 🚀 Desenvolvimento de Soluções Inteligentes
+- 💼 Transformação Digital
+
+---
+
+# 💻 Stack Tecnológica
+
+## Linguagens
 
 - Python
 - JavaScript
 - HTML5
 - CSS3
+- SQL
+- JSON
 
-### Ferramentas
+## Inteligência Artificial
+
+- ChatGPT
+- Gemini
+- Engenharia de Prompt
+- IA Generativa
+- Pinecone
+
+## Banco de Dados
+
+- MySQL
+- SQL
+- Cloud Firestore
+
+## Cloud Computing
+
+- Google Cloud Platform (GCP)
+
+## Ferramentas
 
 - Git
 - GitHub
-- Power Automate
 - VS Code
-- Microsoft 365
+- PyCharm
+- Visual Studio
 
-### Áreas de Interesse
+## Desenvolvimento
+
+- APIs REST
+- Three.js
+- Unity
+- Automação de Processos
+- Desenvolvimento Front-End
+- Integração de Sistemas
+
+---
+
+# 🌐 Projetos Reais Desenvolvidos
+
+## 🏢 Real Project Consulting & Training
+
+Desenvolvimento e manutenção do website institucional da Real Project, empresa especializada em treinamentos, consultoria e gerenciamento de projetos.
+
+### Principais Atividades
+
+- Desenvolvimento Front-End
+- Estruturação da interface do usuário
+- Implementação de layout responsivo
+- Organização de conteúdo institucional
+- Melhorias de experiência do usuário (UX)
+- Manutenção evolutiva do portal
+
+### Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+
+🔗 Website:
+https://realproject.com.br
+
+---
+
+## 📊 MetaQualys
+
+Participação no desenvolvimento do website institucional da MetaQualys, focado na apresentação de soluções tecnológicas e fortalecimento da presença digital da empresa.
+
+### Principais Atividades
+
+- Desenvolvimento de páginas web
+- Criação de componentes visuais
+- Estruturação de conteúdo corporativo
+- Otimização da experiência do usuário
+- Implementação de design responsivo
+
+### Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+
+🔗 Website:
+https://metaqualys.com.br
+
+---
+
+# 🤖 Projetos em Destaque
+
+## Automação de Tarefas e Bots
+
+Projetos desenvolvidos para automatizar atividades repetitivas, aumentar produtividade e reduzir esforços operacionais.
+
+### Tecnologias
+
+- Python
+- APIs
+- Automação
+- Integrações
+
+---
+
+## Desenvolvimento de Soluções Inteligentes
+
+Estudos e aplicações voltados para:
 
 - Inteligência Artificial
-- Machine Learning
-- Automação de Processos
-- Bots Inteligentes
-- APIs
-- Engenharia de Dados
-- Desenvolvimento Backend
+- IA Generativa
+- Processamento de Dados
+- Integração de APIs
+- Automação Corporativa
+- Cloud Computing
 
 ---
 
-## 🎯 Objetivo Profissional
+# 📚 Atualmente Estudando
 
-Meu objetivo é atuar como Desenvolvedor Python criando soluções baseadas em Inteligência Artificial, automação de processos e desenvolvimento de aplicações que gerem impacto real nos negócios.
-
----
-
-## 📂 Projetos em Destaque
-
-### 🤖 Automação de Tarefas e Bots
-
-Projetos voltados para automação de atividades repetitivas utilizando Python e outras ferramentas.
-
-### 🌐 Real Project Website
-
-Desenvolvimento de website institucional moderno utilizando HTML5 e CSS3.
-
-### 🧠 Projetos de Inteligência Artificial
-
-Estudos e aplicações envolvendo IA, automação inteligente e integração de serviços.
-
----
-
-## 📈 Atualmente Estudando
-
-- Python Avançado
-- Inteligência Artificial Generativa
-- Machine Learning
-- APIs REST
 - FastAPI
+- Machine Learning
+- Deep Learning
 - LangChain
-- Azure AI
-- GitHub Actions
+- Agentes Inteligentes
+- Arquiteturas RAG
+- Engenharia de IA
+- Cloud Architecture
+- Engenharia de Dados
+- Desenvolvimento Backend Avançado
 
 ---
 
-## 📫 Contato
+# 🎓 Formação
 
-- GitHub: https://github.com/thiagoneves1235
-- LinkedIn: Adicione seu LinkedIn
-- E-mail: Adicione seu E-mail
+### Universidade Cruzeiro do Sul
+
+Graduação em andamento com foco no desenvolvimento de competências voltadas para tecnologia, desenvolvimento de software e inovação.
 
 ---
 
-⭐ Sempre aprendendo, construindo e compartilhando conhecimento.
+# 💼 Objetivo Profissional
+
+Busco consolidar minha carreira como Desenvolvedor Python e Engenheiro de Inteligência Artificial, atuando na criação de soluções modernas que combinem:
+
+✅ Inteligência Artificial
+
+✅ Automação
+
+✅ Desenvolvimento Web
+
+✅ Cloud Computing
+
+✅ Integração de Sistemas
+
+✅ Análise de Dados
+
+✅ Transformação Digital
+
+---
+
+# 📈 Atualmente Explorando
+
+- IA Generativa
+- Chatbots Inteligentes
+- Engenharia de Prompt
+- Machine Learning
+- Cloud Computing
+- Agentes Autônomos
+- APIs Inteligentes
+- Soluções SaaS
+- Desenvolvimento Full Stack
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagoneves1235&show_icons=true&theme=tokanguages](https://github-readme-stats.vercel.app/apiame=thiagoneves1235&layout=compact&theme=tokyonight
+
+---
+
+# 🌎 Conecte-se Comigo
+
+💼 LinkedIn
+
+https://br.linkedin.com/in/thiagomarquesneves
+
+🐙 GitHub
+
+https://github.com/thiagoneves1235
+
+🌐 Real Project
+
+https://realproject.com.br
+
+🌐 MetaQualys
+
+https://metaqualys.com.br
+
+---
+
+# ⚡ Filosofia
+
+> "A tecnologia não é apenas sobre código. É sobre criar soluções capazes de transformar ideias em resultados reais."
+
+---
+
+⭐ Obrigado por visitar meu perfil!
